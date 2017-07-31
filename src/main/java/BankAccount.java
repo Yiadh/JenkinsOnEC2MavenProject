@@ -2,7 +2,7 @@ package com.bogotobogo;
 
 public class BankAccount {
 
-	  private double balance;
+	  private double balance1;
 
 	  public BankAccount(double balance) {
 	    this.balance = balance;
